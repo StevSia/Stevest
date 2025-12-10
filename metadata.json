@@ -1,0 +1,5 @@
+{
+  "name": "Stevest",
+  "description": "A crypto-style investment portfolio tracker managing multiple accounts, tracking P/L, cashflow, and AI-powered dividend insights.",
+  "requestFramePermissions": []
+}
